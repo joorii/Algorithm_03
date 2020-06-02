@@ -2,7 +2,8 @@
 
 # Model 1
 
-1. Model \n
+1. Model
+
 ![image](https://user-images.githubusercontent.com/66258204/83496820-9ced6300-a4f4-11ea-818d-fa3b23c46b5f.png)
 
 2. Training with Training loss
@@ -21,6 +22,7 @@
 # Model 2
 
 1. Model
+
 ![image](https://user-images.githubusercontent.com/66258204/83497273-3157c580-a4f5-11ea-86a9-e9bdf70b47fe.png)
 
 2. Training with Training loss
@@ -39,6 +41,7 @@
 # Model 3
 
 1. Model
+
 ![image](https://user-images.githubusercontent.com/66258204/83497572-9ca19780-a4f5-11ea-8326-bee0d642fa34.png)
 
 2. Training with Training loss
