@@ -30,7 +30,8 @@
 ![image](https://user-images.githubusercontent.com/66258204/83497299-3c125a80-a4f5-11ea-908b-2f3b70b4573f.png)
 
 3. Test Accuracy
-![image](https://user-images.githubusercontent.com/66258204/83497344-4896b300-a4f5-11ea-89b6-f07ece4befaf.png)
+![image](https://user-images.githubusercontent.com/66258204/83499697-b85a6d00-a4f8-11ea-85f4-977fe75f544b.png)
+
 
 4. Images and corresponding probability that predicted Right
 
