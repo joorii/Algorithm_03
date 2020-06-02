@@ -2,7 +2,7 @@
 
 # Model 1
 
-1. Model
+1. Model \n
 ![image](https://user-images.githubusercontent.com/66258204/83496820-9ced6300-a4f4-11ea-818d-fa3b23c46b5f.png)
 
 2. Training with Training loss
